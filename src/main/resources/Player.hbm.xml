@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Feb 3, 2018 10:51:06 AM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="xyz.andschleicher.codenames.bean.Player" table="PLAYERS">
+        <id name="username" type="java.lang.String">
+            <column name="USERNAME" />
+            <generator class="assigned" />
+        </id>
+        <property name="role" type="java.lang.String">
+            <column name="ROLE" />
+        </property>
+        <property name="passed" type="boolean">
+            <column name="PASSED" />
+        </property>
+        <property name="selected0" type="boolean">
+            <column name="SELECTED_0" />
+        </property>
+        <property name="selected1" type="boolean">
+            <column name="SELECTED_1" />
+        </property>
+        <property name="selected2" type="boolean">
+            <column name="SELECTED_2" />
+        </property>
+        <property name="selected3" type="boolean">
+            <column name="SELECTED_3" />
+        </property>
+        <property name="selected4" type="boolean">
+            <column name="SELECTED_4" />
+        </property>
+        <property name="selected5" type="boolean">
+            <column name="SELECTED_5" />
+        </property>
+        <property name="selected6" type="boolean">
+            <column name="SELECTED_6" />
+        </property>
+        <property name="selected7" type="boolean">
+            <column name="SELECTED_7" />
+        </property>
+        <property name="selected8" type="boolean">
+            <column name="SELECTED_8" />
+        </property>
+        <property name="selected9" type="boolean">
+            <column name="SELECTED_9" />
+        </property>
+        <property name="selected10" type="boolean">
+            <column name="SELECTED_10" />
+        </property>
+        <property name="selected11" type="boolean">
+            <column name="SELECTED_11" />
+        </property>
+        <property name="selected12" type="boolean">
+            <column name="SELECTED_12" />
+        </property>
+        <property name="selected13" type="boolean">
+            <column name="SELECTED_13" />
+        </property>
+        <property name="selected14" type="boolean">
+            <column name="SELECTED_14" />
+        </property>
+        <property name="selected15" type="boolean">
+            <column name="SELECTED_15" />
+        </property>
+        <property name="selected16" type="boolean">
+            <column name="SELECTED_16" />
+        </property>
+        <property name="selected17" type="boolean">
+            <column name="SELECTED_17" />
+        </property>
+        <property name="selected18" type="boolean">
+            <column name="SELECTED_18" />
+        </property>
+        <property name="selected19" type="boolean">
+            <column name="SELECTED_19" />
+        </property>
+        <property name="selected20" type="boolean">
+            <column name="SELECTED_20" />
+        </property>
+        <property name="selected21" type="boolean">
+            <column name="SELECTED_21" />
+        </property>
+        <property name="selected22" type="boolean">
+            <column name="SELECTED_22" />
+        </property>
+        <property name="selected23" type="boolean">
+            <column name="SELECTED_23" />
+        </property>
+        <property name="selected24" type="boolean">
+            <column name="SELECTED_24" />
+        </property>
+    </class>
+</hibernate-mapping>
