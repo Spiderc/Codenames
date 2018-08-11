@@ -2408,5 +2408,135 @@
 				"word": "Zombie"
 			}
 		]
+	},
+	{
+		"name": "CGE Games Bonus Pack",
+		"words": [
+			{
+				"word": "Adrenaline"
+			},
+			{
+				"word": "Age"
+			},
+			{
+				"word": "Alchemist"
+			},
+			{
+				"word": "Alert"
+			},
+			{
+				"word": "Blog"
+			},
+			{
+				"word": "Calendar"
+			},
+			{
+				"word": "Century"
+			},
+			{
+				"word": "Codename"
+			},
+			{
+				"word": "Dungeon"
+			},
+			{
+				"word": "Goblin"
+			},
+			{
+				"word": "Last Will"
+			},
+			{
+				"word": "League"
+			},
+			{
+				"word": "Legend"
+			},
+			{
+				"word": "Moose"
+			},
+			{
+				"word": "Pet"
+			},
+			{
+				"word": "Pictomania"
+			},
+			{
+				"word": "Prodigals Club"
+			},
+			{
+				"word": "Shipyard"
+			},
+			{
+				"word": "Sneak"
+			},
+			{
+				"word": "Trucker"
+			}
+		]
+	},
+	{
+		"name": "Board Gaming Bonus Pack",
+		"words": [
+			{
+				"word": "Analysis"
+			},
+			{
+				"word": "Author"
+			},
+			{
+				"word": "Chance"
+			},
+			{
+				"word": "Cube"
+			},
+			{
+				"word": "Euro"
+			},
+			{
+				"word": "Expansion"
+			},
+			{
+				"word": "Family"
+			},
+			{
+				"word": "Geek"
+			},
+			{
+				"word": "Illustrator"
+			},
+			{
+				"word": "Loss"
+			},
+			{
+				"word": "Mini"
+			},
+			{
+				"word": "Paralysis"
+			},
+			{
+				"word": "Party"
+			},
+			{
+				"word": "Review"
+			},
+			{
+				"word": "Roleplay"
+			},
+			{
+				"word": "Strategy"
+			},
+			{
+				"word": "Tile"
+			},
+			{
+				"word": "Token"
+			},
+			{
+				"word": "Turn"
+			},
+			{
+				"word": "Victory"
+			}
+		]
 	}
 ]
